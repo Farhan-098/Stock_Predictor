@@ -45,3 +45,8 @@ Machine Learning - scikit-learn
 Data Processing - pandas, numpy
 Visualization - matplotlib
 
+Team Memners:
+Farhan Arshad
+Farhan Sheikh
+Ammar Khan
+Fahad Saud
